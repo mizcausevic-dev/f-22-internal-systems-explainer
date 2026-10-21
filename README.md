@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/f-22-internal-systems-explainer/
 
+Repository: https://github.com/mizcausevic-dev/f-22-internal-systems-explainer
+
 ## What this is
 
 An interactive anatomy plate for F-22 Internal Systems. Play, scrub, or jump the five stages. The same frame always draws the same picture.
